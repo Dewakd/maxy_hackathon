@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'CinaGEO';
+    src: url(/public/fonts/CinaGEOTest-Regular.otf);
+}
+
+@font-face {
+    font-family: 'CinaGEOLight';
+    src: url(/public/fonts/CinaGEOTest-Light.otf);
+}
